@@ -1,0 +1,19 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Typescript noob to pro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dhanur350/TypeScript.git"
+  },
+  "author": "dhanur350",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhanur350/TypeScript/issues"
+  },
+  "homepage": "https://github.com/dhanur350/TypeScript#readme"
+}
