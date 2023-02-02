@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dhanur350/TypeScript/issues"
   },
-  "homepage": "https://github.com/dhanur350/TypeScript#readme"
+  "homepage": "https://github.com/dhanur350/TypeScript#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
 }
