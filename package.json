@@ -2,9 +2,9 @@
   "name": "typescript",
   "version": "1.0.0",
   "description": "Typescript noob to pro",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index.ts"
   },
   "repository": {
     "type": "git",

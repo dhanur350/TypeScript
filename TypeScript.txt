@@ -5,3 +5,5 @@ In TypeScript there is a concept of stronger static typing,
 It has Object oriented features
 It catches errors in complie time, to get it fixed
 It has great tools rather than in JavaScript
+
+TypeScript immediately catches errors during code compiling or writing them, at immediately.
