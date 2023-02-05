@@ -3,6 +3,6 @@
 //     console.log(`Hello ${tsc}`);
 // }
 // ts();
-
-let count = 10;
-count = 'a'
+var count = 10;
+count = 'a';
+console.log(count);
